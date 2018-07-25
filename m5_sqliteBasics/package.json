@@ -1,0 +1,18 @@
+{
+  "name": "m5_sqlite_basics",
+  "version": "1.0.0",
+  "description": "Some practice about the use of sqlite in node js application\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[.\u001b[D\u001b[D\u001b[D\u001b[N",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "errorhandler": "1.5.0",
+    "express": "4.16.3",
+    "morgan": "1.9.0",
+    "sqlite3": "4.0.0"
+  }
+}

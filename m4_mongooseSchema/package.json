@@ -1,0 +1,14 @@
+{
+  "name": "m4_mongoose_schema",
+  "version": "1.0.0",
+  "description": "Module 4 exercise on setting schema in mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "5.1.2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "m3_mongo_intro",
+  "version": "1.0.0",
+  "description": "Module 3 introduction to use of MondoDB in node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "3.0.7"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "m1_web_crawler",
+  "version": "1.0.0",
+  "description": "Module 1 guided exercise from edx introduction to node.js course",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "3.1.0"
+  }
+}

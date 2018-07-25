@@ -1,0 +1,14 @@
+{
+  "name": "m1_cvs2json",
+  "version": "1.0.0",
+  "description": "Lab assignment for module 1 of edx introduction to node.js course",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "1.1.9"
+  }
+}

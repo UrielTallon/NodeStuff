@@ -1,0 +1,14 @@
+{
+  "name": "m4_mongoose_lab",
+  "version": "1.0.0",
+  "description": "Module 4 of Node.js course lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "5.1.2"
+  }
+}

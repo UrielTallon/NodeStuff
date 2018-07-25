@@ -1,0 +1,16 @@
+{
+  "name": "m2_rest_api",
+  "version": "1.0.0",
+  "description": "Module 2 guided exercise from edx introduction to node.js course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Tallon",
+  "license": "ISC",
+  "dependencies": {
+    "errorhandler": "1.5.0",
+    "express": "4.16.2",
+    "morgan": "1.9.0"
+  }
+}
